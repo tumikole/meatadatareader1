@@ -1,1 +1,3 @@
-# meatadatareader1
+In this app, user should be able to choose file and the app itself should generate the information about  the uploaded file.
+
+First the user choose the file, once the choosen file uploaded, it will be displayed. Then click the the submit button. After clicking the submit button, the name of the uploaded file will appear underneath the submit button. Once the user click on the name of the choosen file, the file data will be generated and be displayed on the file information.

@@ -1,0 +1,30 @@
+.AppBody {
+  background-color: #6c757d;;
+}
+
+.App {
+  background-color: white;
+  margin: 3rem;
+
+  width: 40%;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+.AppComponents{
+  margin: 3rem;
+}
+
+.CardText{
+
+  display:"grid !important";
+   grid-template-columns:"1fr !important"
+
+}
+
+img{
+  height:100%;
+  width:100%;
+  
+}
