@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ff88a5a574a2b392785123f5ced6d6b",
+    "revision": "3c1722416d97d19fd43dfbc7a69e5008",
     "url": "/meatadatareader1/index.html"
   },
   {
-    "revision": "5e0930f3dd6a9b3d908a",
+    "revision": "bdf837f221b519f5b45f",
     "url": "/meatadatareader1/static/css/2.171a7357.chunk.css"
   },
   {
-    "revision": "469496535fa71774496f",
+    "revision": "4135ac7c580c00151b80",
     "url": "/meatadatareader1/static/css/main.6c19a417.chunk.css"
   },
   {
-    "revision": "5e0930f3dd6a9b3d908a",
-    "url": "/meatadatareader1/static/js/2.b13ba40d.chunk.js"
+    "revision": "bdf837f221b519f5b45f",
+    "url": "/meatadatareader1/static/js/2.6e0ec0a5.chunk.js"
   },
   {
     "revision": "356ab6c8494ed7734735",
     "url": "/meatadatareader1/static/js/3.d56735c2.chunk.js"
   },
   {
-    "revision": "469496535fa71774496f",
-    "url": "/meatadatareader1/static/js/main.80fa0aa7.chunk.js"
+    "revision": "4135ac7c580c00151b80",
+    "url": "/meatadatareader1/static/js/main.42d7867a.chunk.js"
   },
   {
     "revision": "5acc58979ad44e9c91fa",
