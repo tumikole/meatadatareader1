@@ -11,30 +11,34 @@ const handleChange = (e) =>{
      }
 
   const onClickShow = (props) => {
-    const { name, type, size } = props;
+    const { name, type, size, blob} = props;
     console.log(`props`, props);
     setSelectedFile({
       name,
       type,
       size,
+      blob
     });
   };
 
   const handleSubmission = (e) => {
     e.preventDefault();
     let file = document.getElementsByName("file")[0].files["0"];
+    let blob =  URL.createObjectURL(file)
     const { name, type, size } = file;
     if (name && type && size) {
-      setFilesList([
-        ...files,
-        {
-          name: file.name,
-          type: file.type,
-          size: file.size,
+        setFilesList([
+            ...files,
+            {
+                name: file.name,
+                type: file.type,
+                size: file.size,
+                blob: blob
+          
         },
       ]);
 
-      console.log("tumisang",file.name)
+      console.log("tumisang", blob)
     }
   };
 
@@ -57,6 +61,7 @@ const handleChange = (e) =>{
   <Card
   >
     <CardBody>
+        <h5 style={{color:"red"}}>Choosen file</h5>
     <div>
     <object data={image} type="application/pdf" width="100%" height="100%"></object>
     </div>
@@ -65,7 +70,7 @@ const handleChange = (e) =>{
       <h4>Click on file name to show file information</h4>
 {files.map((val) => {
             return  <Button onClick={() => onClickShow(val)}  color="success"
-    outline style={{color:"red", }}>File Name: {val.name}</Button>;
+    outline style={{color:"red"}}>File Name: {val.name}</Button>;
           })}     
 <div>
  
@@ -92,6 +97,8 @@ File Information
 
           <Button disabled color="warning" outline>Size: {selectedFile.size}</Button>
                     {/* <Button disabled color="warning" outline>Blob: {selectedFile}</Button> */}
+                    <Button color="danger" target="_blank" href={selectedFile.blob} outline>{selectedFile.blob}</Button>
+
 
 
       </CardText>

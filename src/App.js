@@ -5,8 +5,8 @@ import FormData from './Components/FormData'
 function App() {
 
   return (
-    <div className="AppBody">
-    <h1 style={{textAlign:"center"}}>File Meta-Data Reader App</h1>
+    <div style={{height:"100vh"}} className="AppBody">
+    <h1 style={{textAlign:"center", padding:"3rem"}}>File Meta-Data Reader App</h1>
     <div className="App">
     <div className="AppComponents">
       <FormData/>
