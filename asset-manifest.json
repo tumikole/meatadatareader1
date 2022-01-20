@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c19a417.chunk.css",
-    "main.js": "/static/js/main.d58a8ebb.chunk.js",
-    "main.js.map": "/static/js/main.d58a8ebb.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.08e22271.js",
-    "runtime~main.js.map": "/static/js/runtime~main.08e22271.js.map",
-    "static/css/2.171a7357.chunk.css": "/static/css/2.171a7357.chunk.css",
-    "static/js/2.b13ba40d.chunk.js": "/static/js/2.b13ba40d.chunk.js",
-    "static/js/2.b13ba40d.chunk.js.map": "/static/js/2.b13ba40d.chunk.js.map",
-    "static/js/3.d56735c2.chunk.js": "/static/js/3.d56735c2.chunk.js",
-    "static/js/3.d56735c2.chunk.js.map": "/static/js/3.d56735c2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d03bbe42453094b49dd94a5fd722ef1b.js": "/precache-manifest.d03bbe42453094b49dd94a5fd722ef1b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.171a7357.chunk.css.map": "/static/css/2.171a7357.chunk.css.map",
-    "static/css/main.6c19a417.chunk.css.map": "/static/css/main.6c19a417.chunk.css.map"
+    "main.css": "/meatadatareader1/static/css/main.6c19a417.chunk.css",
+    "main.js": "/meatadatareader1/static/js/main.d58a8ebb.chunk.js",
+    "main.js.map": "/meatadatareader1/static/js/main.d58a8ebb.chunk.js.map",
+    "runtime~main.js": "/meatadatareader1/static/js/runtime~main.cad15ef3.js",
+    "runtime~main.js.map": "/meatadatareader1/static/js/runtime~main.cad15ef3.js.map",
+    "static/css/2.171a7357.chunk.css": "/meatadatareader1/static/css/2.171a7357.chunk.css",
+    "static/js/2.b13ba40d.chunk.js": "/meatadatareader1/static/js/2.b13ba40d.chunk.js",
+    "static/js/2.b13ba40d.chunk.js.map": "/meatadatareader1/static/js/2.b13ba40d.chunk.js.map",
+    "static/js/3.d56735c2.chunk.js": "/meatadatareader1/static/js/3.d56735c2.chunk.js",
+    "static/js/3.d56735c2.chunk.js.map": "/meatadatareader1/static/js/3.d56735c2.chunk.js.map",
+    "index.html": "/meatadatareader1/index.html",
+    "precache-manifest.3c133fc71970848237a81b1f240414f5.js": "/meatadatareader1/precache-manifest.3c133fc71970848237a81b1f240414f5.js",
+    "service-worker.js": "/meatadatareader1/service-worker.js",
+    "static/css/2.171a7357.chunk.css.map": "/meatadatareader1/static/css/2.171a7357.chunk.css.map",
+    "static/css/main.6c19a417.chunk.css.map": "/meatadatareader1/static/css/main.6c19a417.chunk.css.map"
   }
 }
