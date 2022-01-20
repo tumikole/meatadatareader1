@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/meatadatareader1/static/css/main.6c19a417.chunk.css",
-    "main.js": "/meatadatareader1/static/js/main.d58a8ebb.chunk.js",
-    "main.js.map": "/meatadatareader1/static/js/main.d58a8ebb.chunk.js.map",
+    "main.js": "/meatadatareader1/static/js/main.80fa0aa7.chunk.js",
+    "main.js.map": "/meatadatareader1/static/js/main.80fa0aa7.chunk.js.map",
     "runtime~main.js": "/meatadatareader1/static/js/runtime~main.cad15ef3.js",
     "runtime~main.js.map": "/meatadatareader1/static/js/runtime~main.cad15ef3.js.map",
     "static/css/2.171a7357.chunk.css": "/meatadatareader1/static/css/2.171a7357.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.d56735c2.chunk.js": "/meatadatareader1/static/js/3.d56735c2.chunk.js",
     "static/js/3.d56735c2.chunk.js.map": "/meatadatareader1/static/js/3.d56735c2.chunk.js.map",
     "index.html": "/meatadatareader1/index.html",
-    "precache-manifest.3c133fc71970848237a81b1f240414f5.js": "/meatadatareader1/precache-manifest.3c133fc71970848237a81b1f240414f5.js",
+    "precache-manifest.3bbe61d74650c5c74729483267beb42e.js": "/meatadatareader1/precache-manifest.3bbe61d74650c5c74729483267beb42e.js",
     "service-worker.js": "/meatadatareader1/service-worker.js",
     "static/css/2.171a7357.chunk.css.map": "/meatadatareader1/static/css/2.171a7357.chunk.css.map",
     "static/css/main.6c19a417.chunk.css.map": "/meatadatareader1/static/css/main.6c19a417.chunk.css.map"
